@@ -6,5 +6,5 @@ Formulario interactivo para la creación de Tarjetas CRC (Clase, Responsabilidad
 ![Boceto Excalidraw](./PLANILLA.png)
 
 # Aplicación Web Funcional
-Puedes interactuar con el formulario y exportar tus tarjetas a PDF en el siguiente enlace:
+Aqui puede ver la planilla codificada con la opcion para guardarla como PDF e imprimirla
  [Ver Tarjeta CRC en GitHub Pages](https://gilberto07-ambeliz.github.io/tarjetas-crc/)
